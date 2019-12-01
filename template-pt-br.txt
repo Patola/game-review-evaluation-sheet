@@ -1,0 +1,92 @@
+[h1]■■■■■■■■□□ 8 / 10[/h1]
+
+[b]---{Gráficos}---[/b]
+☐ Você esquece o que é a realidade
+☐ Bonitos
+☐ Bons
+☑ Decentes
+☐ Ruins
+☐ Não olhe muito
+☐ Paint.exe
+
+[b]---{Jogabilidade}---[/b]
+☐ Muito bom
+☑ Bom
+☐ Somente jogável
+☐ Marromenos
+☐ Olhar pras paredes é mais divertido
+☐ Apenas NÃO
+
+[b]---{Áudio}---[/b]
+☐ Orgasmo Auditório
+☐ Muito bom
+☑ Bom
+☐ Serve.
+☐ Ruim
+☐ Destruidor de Ouvidos
+
+[b]---{Atuação de Voz}---[/b]
+☐ Obra-prima de atuação para todos os personagens e cenas
+☐ Atuação boa ou média para todos os personagens e cenas scenes
+☐ Boa ou média atuação em parte considerável do jogo
+☑ Somente poucas partes do jogo com atuação de voz
+☐ Totalmente sem atuação de voz
+
+[b]---{Audiência}---[/b]
+☑ Crianças
+☑ Adolescentes
+☑ Adultos
+☑ Humanos
+
+[b]---{Requerimentos pro PC}---[/b]
+☐ Verifique se consegue rodar o Paint
+☐ Batata
+☑ Decente
+☐ Rápido
+☐ PC de rico
+☐ PC da NASA
+
+[b]---{Difficuldade}---[/b]
+☐ É só apertar (A)
+☐ Fácil
+☑ Uso significativo do cérebro
+☐ Fácil de aprender, difícil de dominar
+☐ Difícil
+☐ Dark Souls
+
+[b]---{Grind}---[/b]
+☐ Não tem grind
+☐ Só se você se preocupar com placares, rankings e leaderboards
+☑ Não é necessário pra progredir
+☐ Nível médio de grind
+☐ Grind excessivo
+☐ Você precisará de uma segunda vida pro grinding
+
+[b]---{Estória}---[/b]
+☐ Estória?
+☐ Texto ou Áudio flutuantes
+☐ Média
+☐ Boa
+☑ Ótima
+☐ Substituirá sua vida
+
+[b]---{Tempo de Jogo}---[/b]
+☐ Longo o suficiente para uma xícara de café
+☑ Curto
+☐ Médio
+☐ Longo
+☐ Para o infinito e além!
+
+[b]---{Preço}---[/b]
+☐ Gratuito!
+☑ Vale o preço
+☐ Se você tiver algum trocado sobrando
+☐ Não recomendado
+☐ É melhor queimar seu dinheiro de uma vez
+
+[b]---{Bugs}---[/b]
+☑ Não encontrei
+☐ Bugs menores e de pouco impacto
+☐ Podem irritar um pouco
+☐ ARK: Survival Evolved
+☐ O jogo é um criadouro de bugs
