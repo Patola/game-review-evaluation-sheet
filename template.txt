@@ -31,7 +31,7 @@ Here's a checked box: ☑
 ☐ Masterful acting for all characters and scenes
 ☐ Good/average acting for all characters and scenes
 ☐ Good acting but not all characters and scenes have it
-☑ Just a few parts of the game have voice acting
+☐ Just a few parts of the game have voice acting
 ☐ No voice acting at all
 
 [b]---{Audience}---[/b]
@@ -69,7 +69,7 @@ Here's a checked box: ☑
 ☐ Text or Audio floating around
 ☐ Average
 ☐ Good
-☐ Lovley
+☐ Lovely
 ☐ It‘ll replace your life
 
 [b]---{Game Time}---[/b]
