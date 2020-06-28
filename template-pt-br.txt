@@ -18,6 +18,22 @@
 ☐ Apenas NÃO
 
 [b]---{Áudio}---[/b]
+[b]---Linux Support via Proton---[/b]
+☐ Borked! Does not run, or crashes at the start.
+☐ Janky! Works more or less, might fail in some configs.
+☐ Moderate. Performance and/or Linux specific bugs.
+☐ Good. Not perfect, might need tweaks to run perfectly.
+☐ Platinum. Works as good than in Windows, or even better.
+☐ PROTON OFFICIALLY SUPPORTED.
+
+[b]---VR Support---[/b]
+☐ Does not support VR
+☐ Has a precarious Side-by-Side implementation, no VR controls.
+☐ Has a poor VR implementation.
+☐ Average. Not amazing, but could be better.
+☐ Very good VR, both controls, visuals and the game feels very tactile.
+☐ This was made for VR in the first place - perfect!
+
 ☐ Orgasmo Auditório
 ☐ Muito bom
 ☑ Bom
@@ -83,6 +99,22 @@
 ☐ Se você tiver algum trocado sobrando
 ☐ Não recomendado
 ☐ É melhor queimar seu dinheiro de uma vez
+
+[b]---Suporte ao Linux via Proton---[/b]
+☐ Borked! Nem mesmo roda ou dá pau no início.
+☐ Desajeitado! Funciona mais ou menos, pode falhar em algumas configurações.
+☐ Moderado. Com bugs específicos no Linux ou desempenho ruim.
+☐ Bom. Não perfeito, pode precisar de ajustes pra funcionar.
+☐ Platinum. Funciona tão bem quanto no Windows, ou até melhor, sem ajustes.
+☐ PROTON OFICIALMENTE SUPORTADO.
+
+[b]---Suporte a Realidade Virtual (VR)---[/b]
+☐ Não suporta VR
+☐ Tem implementação de visões lado-a-lado precária, não usa controles VR.
+☐ Tem implementação VR pobre.
+☐ Média. Não é ótima, podia ser melhor.
+☐ VR muito boa, tanto nos controles e visuais quanto na mecânica táctil do jogo.
+☐ Isso foi feito para Realidade Virtual desde o início - perfeito!
 
 [b]---{Bugs}---[/b]
 ☑ Não encontrei
