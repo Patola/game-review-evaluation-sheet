@@ -1,42 +1,28 @@
+Eis uma caixa selecionada: ☑
+
 [h1]■■■■■■■■□□ 8 / 10[/h1]
 
 [b]---{Gráficos}---[/b]
 ☐ Você esquece o que é a realidade
 ☐ Bonitos
 ☐ Bons
-☑ Decentes
+☐ Decentes
 ☐ Ruins
 ☐ Não olhe muito
 ☐ Paint.exe
 
 [b]---{Jogabilidade}---[/b]
 ☐ Muito bom
-☑ Bom
+☐ Bom
 ☐ Somente jogável
 ☐ Marromenos
 ☐ Olhar pras paredes é mais divertido
 ☐ Apenas NÃO
 
 [b]---{Áudio}---[/b]
-[b]---Linux Support via Proton---[/b]
-☐ Borked! Does not run, or crashes at the start.
-☐ Janky! Works more or less, might fail in some configs.
-☐ Moderate. Performance and/or Linux specific bugs.
-☐ Good. Not perfect, might need tweaks to run perfectly.
-☐ Platinum. Works as good than in Windows, or even better.
-☐ PROTON OFFICIALLY SUPPORTED.
-
-[b]---VR Support---[/b]
-☐ Does not support VR
-☐ Has a precarious Side-by-Side implementation, no VR controls.
-☐ Has a poor VR implementation.
-☐ Average. Not amazing, but could be better.
-☐ Very good VR, both controls, visuals and the game feels very tactile.
-☐ This was made for VR in the first place - perfect!
-
 ☐ Orgasmo Auditório
 ☐ Muito bom
-☑ Bom
+☐ Bom
 ☐ Serve.
 ☐ Ruim
 ☐ Destruidor de Ouvidos
@@ -45,19 +31,19 @@
 ☐ Obra-prima de atuação para todos os personagens e cenas
 ☐ Atuação boa ou média para todos os personagens e cenas scenes
 ☐ Boa ou média atuação em parte considerável do jogo
-☑ Somente poucas partes do jogo com atuação de voz
+☐ Somente poucas partes do jogo com atuação de voz
 ☐ Totalmente sem atuação de voz
 
 [b]---{Audiência}---[/b]
-☑ Crianças
-☑ Adolescentes
-☑ Adultos
-☑ Humanos
+☐ Crianças
+☐ Adolescentes
+☐ Adultos
+☐ Humanos
 
 [b]---{Requerimentos pro PC}---[/b]
 ☐ Verifique se consegue rodar o Paint
 ☐ Batata
-☑ Decente
+☐ Decente
 ☐ Rápido
 ☐ PC de rico
 ☐ PC da NASA
@@ -65,7 +51,7 @@
 [b]---{Difficuldade}---[/b]
 ☐ É só apertar (A)
 ☐ Fácil
-☑ Uso significativo do cérebro
+☐ Uso significativo do cérebro
 ☐ Fácil de aprender, difícil de dominar
 ☐ Difícil
 ☐ Dark Souls
@@ -73,7 +59,7 @@
 [b]---{Grind}---[/b]
 ☐ Não tem grind
 ☐ Só se você se preocupar com placares, rankings e leaderboards
-☑ Não é necessário pra progredir
+☐ Não é necessário pra progredir
 ☐ Nível médio de grind
 ☐ Grind excessivo
 ☐ Você precisará de uma segunda vida pro grinding
@@ -83,19 +69,19 @@
 ☐ Texto ou Áudio flutuantes
 ☐ Média
 ☐ Boa
-☑ Ótima
+☐ Ótima
 ☐ Substituirá sua vida
 
 [b]---{Tempo de Jogo}---[/b]
 ☐ Longo o suficiente para uma xícara de café
-☑ Curto
+☐ Curto
 ☐ Médio
 ☐ Longo
 ☐ Para o infinito e além!
 
 [b]---{Preço}---[/b]
 ☐ Gratuito!
-☑ Vale o preço
+☐ Vale o preço
 ☐ Se você tiver algum trocado sobrando
 ☐ Não recomendado
 ☐ É melhor queimar seu dinheiro de uma vez
@@ -117,7 +103,7 @@
 ☐ Isso foi feito para Realidade Virtual desde o início - perfeito!
 
 [b]---{Bugs}---[/b]
-☑ Não encontrei
+☐ Não encontrei
 ☐ Bugs menores e de pouco impacto
 ☐ Podem irritar um pouco
 ☐ ARK: Survival Evolved
