@@ -91,7 +91,7 @@ Here's a checked box: ☑
 ☐ Janky! Works more or less, might fail in some configs.
 ☐ Moderate. Performance and/or Linux specific bugs.
 ☐ Good. Not perfect, might need tweaks to run perfectly.
-☐ Platinum. Works as good than in Windows, or even better.
+☐ Platinum. Works as good as in Windows, or even better.
 ☐ PROTON OFFICIALLY SUPPORTED.
 
 [b]---VR Support---[/b]
