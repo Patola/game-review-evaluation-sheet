@@ -96,11 +96,16 @@ Here's a checked box: ☑
 
 [b]---VR Support---[/b]
 ☐ Does not support VR
-☐ Has a precarious Side-by-Side implementation, no VR controls.
-☐ Has a poor VR implementation.
-☐ Average. Not amazing, but could be better.
-☐ Very good VR, both controls, visuals and the game feels very tactile.
-☐ This was made for VR in the first place - perfect!
+☐ Has a precarious Side-by-Side view implementation
+☐ Has a convincing VR implementation.
+☐ Feel so real your memories of it cannot be distinguished from reality.
+
+[b]---VR Controls---[/b]
+☐ Bad, does not support haptic controllers.
+☐ Barebones, uses haptic controllers like a joystick
+☐ Half-baked, has spatial controls but your hand pass right through stuff
+☐ Competent, you can feel the touch but it's not Half-Life: Alyx level.
+☐ Superb, you can pratically feel that world by touch
 
 [b]---{Bugs}---[/b]
 ☐ Never heard of
